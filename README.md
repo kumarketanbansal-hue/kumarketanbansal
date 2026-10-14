@@ -1,16 +1,8 @@
 <div align="center">
-
 <img src="./ketan-minecraft-portfolio.svg" width="100%" alt="Ketan's Minecraft developer world" />
-
 <br/>
-
-<a href="https://www.linkedin.com/in/ketan-kumarbansal/">
-  <img src="https://img.shields.io/badge/Explore_My_World-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Explore My World" />
-</a>
-<a href="mailto:kumarketanbansal@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-kumarketanbansal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
-
+<a href="https://www.linkedin.com/in/ketan-kumar-bansal/">Explore My World</a>
+<a href="mailto:kumarketanbansal@gmail.com">Email Me</a>
 </div>
 
 ## My Tools and Technologies
