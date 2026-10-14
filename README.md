@@ -4,7 +4,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ketan-kumarbansal/">
+  <a href="https://www.linkedin.com/in/ketan-kumar-bansal/">
     <img src="./btn-explore.svg" alt="Explore My World" width="200" />
   </a>
   <a href="mailto:kumarketanbansal@gmail.com">
