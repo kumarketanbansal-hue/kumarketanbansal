@@ -3,35 +3,15 @@
 <img src="./ketan-minecraft-portfolio.svg" width="100%" alt="Ketan's Minecraft developer world" />
 
 <br/>
-<a href="https://www.linkedin.com/in/ketan-kumar-bansal/" target="_blank" style="
-  display: inline-block;
-  font-family: 'Courier New', monospace;
-  font-weight: bold;
-  font-size: 15px;
-  color: #ffffff;
-  background-color: #8b8b8b;
-  border: 3px solid #373737;
-  border-top-color: #ffffff;
-  border-left-color: #ffffff;
-  padding: 10px 18px;
-  text-decoration: none;
-">Explore My World</a>
-
-<a href="mailto:kumarketanbansal@gmail.com" style="
-  display: inline-block;
-  font-family: 'Courier New', monospace;
-  font-weight: bold;
-  font-size: 15px;
-  color: #ffffff;
-  background-color: #8b8b8b;
-  border: 3px solid #373737;
-  border-top-color: #ffffff;
-  border-left-color: #ffffff;
-  padding: 10px 18px;
-  text-decoration: none;
-">Email Me</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ketan-kumarbansal/">
+    <img src="./btn-explore.svg" alt="Explore My World" width="200" />
+  </a>
+  <a href="mailto:kumarketanbansal@gmail.com">
+    <img src="./btn-email.svg" alt="Email Ketan" width="200" />
+  </a>
+</p>
 </div>
-
 ## My Tools and Technologies
 <div style="display: flex; align-items: flex-start;">
     <table align="center">
