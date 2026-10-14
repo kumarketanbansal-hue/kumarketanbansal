@@ -12,7 +12,9 @@
   </a>
 </p>
 </div>
+
 ## My Tools and Technologies
+<br>
 <div style="display: flex; align-items: flex-start;">
     <table align="center">
         <tr>
