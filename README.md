@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -7,7 +6,7 @@
         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
-        <object id="svg-object" type="image/svg+xml" data="./ketan-minecraft-portfolio.svg">
+        <img id="svg-object" src="./ketan-minecraft-portfolio.svg" alt="Ketan Portfolio" width="100%" />
         <div class="row">
             <a class="btn" href="https://www.linkedin.com/in/ketan-kumarbansal/" target="_blank" rel="noopener">Explore My World</a>
             <a class="btn" href="mailto:kumarketanbansal@gmail.com">Email Me</a>
